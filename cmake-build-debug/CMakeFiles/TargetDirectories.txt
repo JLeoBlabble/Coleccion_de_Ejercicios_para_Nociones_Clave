@@ -1,3 +1,16 @@
-/Users/leo/CLionProjects/Coleccion_de_Ejercicios_para_Nociones_Clave/cmake-build-debug/CMakeFiles/Coleccion_de_Ejercicios_para_Nociones_Clave.dir
+/Users/leo/CLionProjects/Coleccion_de_Ejercicios_para_Nociones_Clave/cmake-build-debug/CMakeFiles/Problemas1y2.dir
+/Users/leo/CLionProjects/Coleccion_de_Ejercicios_para_Nociones_Clave/cmake-build-debug/CMakeFiles/Problemas3_4_5_6_7.dir
+/Users/leo/CLionProjects/Coleccion_de_Ejercicios_para_Nociones_Clave/cmake-build-debug/CMakeFiles/Matematicas.dir
 /Users/leo/CLionProjects/Coleccion_de_Ejercicios_para_Nociones_Clave/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/leo/CLionProjects/Coleccion_de_Ejercicios_para_Nociones_Clave/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/leo/CLionProjects/Coleccion_de_Ejercicios_para_Nociones_Clave/cmake-build-debug/CMakeFiles/list_install_components.dir
+/Users/leo/CLionProjects/Coleccion_de_Ejercicios_para_Nociones_Clave/cmake-build-debug/CMakeFiles/install.dir
+/Users/leo/CLionProjects/Coleccion_de_Ejercicios_para_Nociones_Clave/cmake-build-debug/CMakeFiles/install/local.dir
+/Users/leo/CLionProjects/Coleccion_de_Ejercicios_para_Nociones_Clave/cmake-build-debug/CMakeFiles/install/strip.dir
+/Users/leo/CLionProjects/Coleccion_de_Ejercicios_para_Nociones_Clave/cmake-build-debug/_deps/fmt-build/CMakeFiles/fmt.dir
+/Users/leo/CLionProjects/Coleccion_de_Ejercicios_para_Nociones_Clave/cmake-build-debug/_deps/fmt-build/CMakeFiles/edit_cache.dir
+/Users/leo/CLionProjects/Coleccion_de_Ejercicios_para_Nociones_Clave/cmake-build-debug/_deps/fmt-build/CMakeFiles/rebuild_cache.dir
+/Users/leo/CLionProjects/Coleccion_de_Ejercicios_para_Nociones_Clave/cmake-build-debug/_deps/fmt-build/CMakeFiles/list_install_components.dir
+/Users/leo/CLionProjects/Coleccion_de_Ejercicios_para_Nociones_Clave/cmake-build-debug/_deps/fmt-build/CMakeFiles/install.dir
+/Users/leo/CLionProjects/Coleccion_de_Ejercicios_para_Nociones_Clave/cmake-build-debug/_deps/fmt-build/CMakeFiles/install/local.dir
+/Users/leo/CLionProjects/Coleccion_de_Ejercicios_para_Nociones_Clave/cmake-build-debug/_deps/fmt-build/CMakeFiles/install/strip.dir
